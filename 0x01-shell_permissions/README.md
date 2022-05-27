@@ -50,3 +50,4 @@ Shell Permissions
 
     The file hello will be in the working directory
 
+17. This creates a script that will play the StarWars IV episode in the terminal.
