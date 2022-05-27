@@ -13,3 +13,5 @@ Shell Permissions
 3. This creates a script that changes the owner of the file hello to the user betty.
 
 4. This creates a script that creates an empty file called hello.
+
+5. This creates a script that adds execute permission to the owner of the file hello.
