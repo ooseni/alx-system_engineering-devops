@@ -68,3 +68,5 @@ The script denoting each task function are written below:
 19. This is a script that replace all characters A and c from input to Z and e respectively.
 
 20. This is a script that removes all letters c and C from input.
+
+21. This is a script that reverse its input.
