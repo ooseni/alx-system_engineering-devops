@@ -12,3 +12,5 @@ The script denoting each task function are written below:
 2. This is a script that displays the content of the /etc/passwd file.
 
 3. This is a script that displays the content of /etc/passwd and /etc/hosts.
+
+4. This is a script that displays the last 10 lines of /etc/passwd
