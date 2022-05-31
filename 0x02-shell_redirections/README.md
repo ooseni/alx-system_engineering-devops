@@ -29,4 +29,5 @@ The script denoting each task function are written below:
 
     The file iacta will be in the working directory
 
+9. This is a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 
