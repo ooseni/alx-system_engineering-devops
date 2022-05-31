@@ -70,3 +70,8 @@ The script denoting each task function are written below:
 20. This is a script that removes all letters c and C from input.
 
 21. This is a script that reverse its input.
+
+22. This is a script that displays all users and their home directories, sorted by users.
+
+	   	    . Based on the the /etc/passwd file
+
