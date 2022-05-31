@@ -16,3 +16,10 @@ The script denoting each task function are written below:
 4. This is a script that displays the last 10 lines of /etc/passwd
 
 5. This is a script that displays the first 10 lines of /etc/passwd
+
+6. This is a script that displays the third line of the file iacta.
+
+	The file iacta will be in the working directory
+
+    		You’re not allowed to use sed
+
