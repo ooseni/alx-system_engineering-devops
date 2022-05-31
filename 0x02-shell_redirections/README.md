@@ -49,5 +49,6 @@ The script denoting each task function are written below:
     Output format: One line, one word
     Words should be sorted
 
+13. This is a script that Display lines containing the pattern “root” from the file /etc/passwd
 
 
