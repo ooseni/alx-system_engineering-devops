@@ -60,3 +60,8 @@ The script denoting each task function are written below:
 16. This is a script that displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 
 17. This is a script that displays  all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+
+18. This is a script that displays all lines of the file /etc/ssh/sshd_config starting with a letter.
+
+	    . include capital letters as well
+
