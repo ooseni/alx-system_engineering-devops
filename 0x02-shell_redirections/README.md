@@ -94,4 +94,10 @@ The script denoting each task function are written below:
     	. The listing should end with a new line
     	. You are not allowed to use basename, grep, egrep, fgrep or rgrep
 
+25. This is a script that decodes acrostics that use the first letter of each line.
+
+    	. The ‘decoded’ message has to end with a new line
+    	. You are not allowed to use grep, egrep, fgrep or rgrep
+
+
 
