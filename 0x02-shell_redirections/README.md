@@ -57,3 +57,4 @@ The script denoting each task function are written below:
 
 15. This is a script that displays the number of lines that contain the pattern “bin” in the file /etc/passwd
 
+16. This is a script that displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
