@@ -11,9 +11,10 @@
 
 		Author: Oseni Sakariyau Oluwadamilare
 
-0. This creates a a script that creates an alias.
+0. This creates a script that creates an alias.
 
     	. Name: ls
     	. Value: rm *
 
+1. This creates a script that prints hello user, where user is the current Linux user.
 
