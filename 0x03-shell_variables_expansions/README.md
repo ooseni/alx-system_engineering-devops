@@ -23,3 +23,5 @@
 3. This creates a script that counts the number of directories in the PATH.
 
 4. This creates a script that lists environment variables.
+
+5. This creates a script that lists all local variables and environment variables, and functions.
