@@ -18,3 +18,4 @@
 
 1. This creates a script that prints hello user, where user is the current Linux user.
 
+2. This creates a script that adds /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
